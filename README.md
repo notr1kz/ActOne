@@ -1,0 +1,3 @@
+- Just choose one class to run
+- Available if ya wanna do some simulations for those starting to code
+- Goodluck to any vibecoders lol kidding
